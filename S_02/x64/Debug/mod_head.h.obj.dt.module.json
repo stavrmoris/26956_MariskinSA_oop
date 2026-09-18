@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "S_02\\x64\\Debug\\mod_head.obj",
+            "outputs": [
+                "S_02\\x64\\Debug\\mod_head.h.obj.dt.module.json",
+                "S_02\\x64\\Debug\\mod_head.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
