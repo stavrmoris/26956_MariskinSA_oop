@@ -1,0 +1,9 @@
+# Keep only C++ sources and optional build instructions.
+*
+!*/
+!*.cpp
+!*.h
+!*.hpp
+!/.gitignore
+!README.md
+!BUILD.md
